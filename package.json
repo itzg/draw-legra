@@ -1,5 +1,5 @@
 {
-  "name": "draw-lego",
+  "name": "draw-legra",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "legra": "^0.2.0",
     "next": "9.1.4",
     "react": "16.12.0",
     "react-dom": "16.12.0"
